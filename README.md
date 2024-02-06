@@ -1,7 +1,6 @@
 *NOTE:* Supported images are available in the [official image library](https://hub.docker.com/_/neo4j/) on Docker Hub.
 Please use those in production.
 
-
 # Using the Neo4j Docker Image
 
 Documentation for the Neo4j image can be found [here](https://neo4j.com/docs/operations-manual/current/deployment/single-instance/docker/).
